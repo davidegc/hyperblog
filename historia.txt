@@ -1,9 +1,7 @@
 Esta es una historia, agreguemos más texto para el ejemplo.
 
-Nuevos cambios para el ejemplo.
-
-Mas lineas de código.
-
 Vamos a probar GIT y sus comandos.
 
 Nos vemos pronto.
+
+Mañana sera otro día.
