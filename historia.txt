@@ -1,5 +1,7 @@
 Esta es una historia, agreguemos más texto para el ejemplo.
 
+Nuevos cambios para el ejemplo.
+
 Vamos a probar GIT y sus comandos.
 
 Nos vemos pronto.
