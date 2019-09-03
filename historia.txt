@@ -1,0 +1,5 @@
+Esta es una historia.
+
+Vamos a probar GIT y sus comandos.
+
+Nos vemos pronto.
