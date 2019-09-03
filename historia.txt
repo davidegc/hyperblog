@@ -1,4 +1,4 @@
-Esta es una historia.
+Esta es una historia, agreguemos más texto para el ejemplo.
 
 Vamos a probar GIT y sus comandos.
 
